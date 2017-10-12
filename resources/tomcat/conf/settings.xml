@@ -13,9 +13,9 @@
                         <enabled>true</enabled>
                         <updatePolicy>always</updatePolicy>
                     </snapshots>
-                    <id>cvs-blazeadvisor-local</id>
-        <name>cvs-blazeadvisor-local</name>
-        <url>http://devopsd.cvshealth.com:8082/artifactory/cvs-blazeadvisor-local</url>
+                    <id>central</id>
+        <name>cicd-artifactoryoss-01.pcf-east.cvshealthcloud.com-releases</name>
+        <url>https://cicd-artifactoryoss-01.pcf-east.cvshealthcloud.com/artifactory/LINKS-BRMS-PROD</url>
                 </repository>
             </repositories>
             <pluginRepositories>
@@ -28,9 +28,9 @@
                         <enabled>true</enabled>
                         <updatePolicy>always</updatePolicy>
                     </snapshots>
-                    <id>cvs-blazeadvisor-local</id>
-        <name>cvs-blazeadvisor-local</name>
-        <url>http://devopsd.cvshealth.com:8082/artifactory/cvs-blazeadvisor-local</url>
+                    <id>central</id>
+        <name>cicd-artifactoryoss-01.pcf-east.cvshealthcloud.com-releases</name>
+        <url>https://cicd-artifactoryoss-01.pcf-east.cvshealthcloud.com/artifactory/LINKS-BRMS-PROD</url>
                 </pluginRepository>
             </pluginRepositories>
             <id>bintray</id>
@@ -41,7 +41,7 @@
     </activeProfiles>
     <servers>
       <server>
-         <id>cvs-blazeadvisor-local</id>
+         <id>central</id>
          <username>kishore</username>
          <password>Welcom#1</password>
       </server>
