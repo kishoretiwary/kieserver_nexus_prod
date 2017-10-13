@@ -13,8 +13,8 @@
                         <enabled>true</enabled>
                         <updatePolicy>always</updatePolicy>
                     </snapshots>
-                    <id>central</id>
-        <name>cicd-artifactoryoss-01.pcf-east.cvshealthcloud.com-releases</name>
+                    <id>LINKS-BRMS-PROD</id>
+        <name>LINKS-BRMS-PROD</name>
         <url>https://cicd-artifactoryoss-01.pcf-east.cvshealthcloud.com/artifactory/LINKS-BRMS-PROD</url>
                 </repository>
             </repositories>
@@ -28,8 +28,8 @@
                         <enabled>true</enabled>
                         <updatePolicy>always</updatePolicy>
                     </snapshots>
-                    <id>central</id>
-        <name>cicd-artifactoryoss-01.pcf-east.cvshealthcloud.com-releases</name>
+                    <id>LINKS-BRMS-PROD</id>
+        <name>LINKS-BRMS-PROD</name>
         <url>https://cicd-artifactoryoss-01.pcf-east.cvshealthcloud.com/artifactory/LINKS-BRMS-PROD</url>
                 </pluginRepository>
             </pluginRepositories>
@@ -42,8 +42,8 @@
     <servers>
       <server>
          <id>central</id>
-         <username>kishore</username>
-         <password>Welcom#1</password>
+         <username>api_links_artifactory_brms_prod</username>
+         <password>Ax+*prod*br8</password>
       </server>
     </servers>
 </settings>
