@@ -41,7 +41,7 @@
     </activeProfiles>
     <servers>
       <server>
-         <id>central</id>
+         <id>LINKS-BRMS-PROD</id>
          <username>api_links_artifactory_brms_prod</username>
          <password>Ax+*prod*br8</password>
       </server>
