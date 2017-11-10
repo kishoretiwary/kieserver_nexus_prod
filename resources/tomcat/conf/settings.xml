@@ -42,8 +42,8 @@
     <servers>
       <server>
          <id>LINKS-BRMS-PROD</id>
-         <username>api_links_artifactory_brms_prod</username>
-         <password>Ax+*prod*br8</password>
+            <username>${env.MVN_SERVER_USER}</username>
+            <password>${env.MVN_SERVER_KEY}</password> 
       </server>
     </servers>
 </settings>
