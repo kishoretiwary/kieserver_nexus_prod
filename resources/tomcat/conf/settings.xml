@@ -15,7 +15,7 @@
                     </snapshots>
                     <id>LINKS-BRMS-PROD</id>
         <name>LINKS-BRMS-PROD</name>
-        <url>https://cicd-artifactoryoss-01.pcf-east.cvshealthcloud.com/artifactory/LINKS-BRMS-PROD</url>
+        <url>https://cicd-nexusenterprise.cvshealth.com:8443/repository/LINKS-BRMS-PRD</url>
                 </repository>
             </repositories>
             <pluginRepositories>
@@ -30,7 +30,7 @@
                     </snapshots>
                     <id>LINKS-BRMS-PROD</id>
         <name>LINKS-BRMS-PROD</name>
-        <url>https://cicd-artifactoryoss-01.pcf-east.cvshealthcloud.com/artifactory/LINKS-BRMS-PROD</url>
+        <url>https://cicd-nexusenterprise.cvshealth.com:8443/repository/LINKS-BRMS-PRD</url>
                 </pluginRepository>
             </pluginRepositories>
             <id>bintray</id>
